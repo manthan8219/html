@@ -1,0 +1,94 @@
+.head{
+    background-color:lightgreen;
+    font-family: Calibri, Helvetica, sans-serif;
+    color: white;
+    text-align:center;
+    margin-bottom:10px;
+    margin-top: -15px;
+}
+.main{
+    text-align:left;
+}
+.column {
+    float: left;
+    width: 50%;
+    }
+
+.input{
+    border-radius: 5px;
+    border-width: 0.5px;
+    margin-top: 20px;
+}
+.label{
+   margin-left: 50px;
+   margin-top: 20px;
+   width: 100px;
+   font-family:serif;
+   display: inline-block;
+}
+.enroll{
+    background-color:blue;
+    color: white;
+    border-radius: 6px;
+    padding: 5px;
+    margin-left: 50px;
+    margin-top: 10px;}
+.clear{
+    background-color:red;
+    color: white;
+    border-radius: 6px;
+    padding: 5px;
+    margin-left: 10px;
+    width:80px;
+    margin-top: 10px;
+}
+.span{
+    margin-left: 60px;
+    
+}
+.skills{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: serif;
+}
+.h{
+    display:inline-block;
+    font-family: serif;
+}
+.select{
+    display: inline;
+}
+.footer{
+    text-align: center;
+    font: size 10px; ;
+    background-color: lightgreen;
+    color: white;
+    margin-top: 200px;
+    width: 100%;
+}
+.heading{
+    margin-left: 50px;
+    margin-right: 40px;
+}
+.female{
+    margin-left: 5px;
+}
+.check{
+    margin-left: 150px;
+}
+.skills{
+    margin-left: 50px;
+    font-family: serif;
+}
+.tab{
+    width: 60%;
+    border-color: black;
+}
+.des{
+    width: 65%;
+    border-color: black;
+}
+.img{
+    width: 35%;
+    border-color: black;
+}
